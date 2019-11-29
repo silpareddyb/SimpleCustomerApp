@@ -7,4 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <name>SimpleCustomerApp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+  <sonar.projectKey>silpareddyb_SimpleCustomerApp</sonar.projectKey>
+  <sonar.organization>silpareddyb</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>70c9a3ac08b922caf0573524df4a076858000aba</sonar.login>
+</properties>
 </project>
